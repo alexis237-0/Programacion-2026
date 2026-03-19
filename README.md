@@ -1,3 +1,6 @@
 # Programacion-2026
 Maldonado Solís Juan Alexis
-## Trabajos, tareas y ejercicios de programación.
+
+## Objetivo.
+Entrega de rabajos, tareas y ejercicios de programación.
+Creación de un programa enfocado a la inversión en acciones

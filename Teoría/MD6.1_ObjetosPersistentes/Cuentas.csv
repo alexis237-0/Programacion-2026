@@ -1,0 +1,3 @@
+id_cuenta,id_cliente,tipo,saldo,fecha,tipo_especial,valor_especial
+1001,1,Ahorro,5000,01/09/2025,Ahorro,0.2
+1002,1,Credito,3000,05/02/2026,Credito,1000
